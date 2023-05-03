@@ -1,2 +1,2 @@
 # MyTennis
-Student homework epository, will be deleted within days
+Student homework repository, will be deleted within days.
